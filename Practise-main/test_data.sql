@@ -1,4 +1,4 @@
-insert into entries(user_id, mood, work_hours, sleep_hours, comment)
+insert into entries(user_id, mood, study_hours, sleep_hours, comment)
 values 
 (5073375856, 4, 5,6,'Норм'),
 (5073375856, 5, 3,6,'Неплохо'),
